@@ -187,8 +187,8 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] Alice's proposed salary is 79200.00
-- [ ] All five proposals are correct
-- [ ] Alice's original salary remains 72000.00
-- [ ] You can explain why this is a transformation, not mutation
+- [X] Alice's proposed salary is 79200.00
+- [X] All five proposals are correct
+- [X] Alice's original salary remains 72000.00
+- [X] You can explain why this is a transformation, not mutation
 

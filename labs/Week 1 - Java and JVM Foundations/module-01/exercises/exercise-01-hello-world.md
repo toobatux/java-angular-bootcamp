@@ -145,5 +145,5 @@ _Mark each row **Pass** or **Fail** in your lab notes._
 
 | # | Confirm | Self-check |
 | - | ------- | ---------- |
-| 1 | `javac` + `java` produce `Hello, JVM!` | Pass / Fail |
-| 2 | You can explain in one sentence: source → bytecode → JVM | Pass / Fail |
+| 1 | `javac` + `java` produce `Hello, JVM!` | Pass |
+| 2 | You can explain in one sentence: source → bytecode → JVM | Pass |

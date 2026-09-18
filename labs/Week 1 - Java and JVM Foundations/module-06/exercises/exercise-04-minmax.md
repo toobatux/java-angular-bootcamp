@@ -199,8 +199,8 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] Highest output is Diana — 90000
-- [ ] Lowest output is Evan — 55000
-- [ ] The same comparator is reused for both reductions
-- [ ] You can explain the purpose of `Optional` here
+- [X] Highest output is Diana — 90000
+- [X] Lowest output is Evan — 55000
+- [X] The same comparator is reused for both reductions
+- [X] You can explain the purpose of `Optional` here
 

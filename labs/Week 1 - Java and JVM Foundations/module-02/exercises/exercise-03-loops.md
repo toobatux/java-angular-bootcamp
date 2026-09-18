@@ -167,5 +167,5 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 | # | Confirm | Self-check |
 | - | ------- | ---------- |
-| 1 | All three loops produce the expected output | Pass / Fail |
-| 2 | You can explain why `do-while` always runs its body once | Pass / Fail |
+| 1 | All three loops produce the expected output | Pass |
+| 2 | You can explain why `do-while` always runs its body once | Pass |

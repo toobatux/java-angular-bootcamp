@@ -181,8 +181,8 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] Output is `Interest earned: 500.00`
-- [ ] Calculation and display are separate methods
-- [ ] You can name both reasons the original method might change
-- [ ] You can connect SRP to Main / BankService / domain classes
+- [X] Output is `Interest earned: 500.00`
+- [X] Calculation and display are separate methods
+- [X] You can name both reasons the original method might change
+- [X] You can connect SRP to Main / BankService / domain classes
 

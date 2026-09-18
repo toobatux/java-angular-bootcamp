@@ -158,6 +158,6 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 | # | Confirm | Self-check |
 | - | ------- | ---------- |
-| 1 | `TreeMap` prints titles in alphabetical order | Pass / Fail |
-| 2 | `firstKey()` / `lastKey()` print the correct titles | Pass / Fail |
-| 3 | You can explain why `HashMap` order should never be relied upon | Pass / Fail |
+| 1 | `TreeMap` prints titles in alphabetical order | Pass |
+| 2 | `firstKey()` / `lastKey()` print the correct titles | Pass |
+| 3 | You can explain why `HashMap` order should never be relied upon | Pass |

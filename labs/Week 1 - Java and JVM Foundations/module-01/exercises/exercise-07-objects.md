@@ -98,5 +98,5 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 | # | Confirm | Self-check |
 | - | ------- | ---------- |
-| 1 | Output is `Aman is 21 years old` | Pass / Fail |
-| 2 | Stack vs heap sketch completed | Pass / Fail |
+| 1 | Output is `Aman is 21 years old` | Pass |
+| 2 | Stack vs heap sketch completed | Pass |

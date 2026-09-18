@@ -1,0 +1,2 @@
+String is loaded by Boostrap - core class loader, responsible for loading fundamental runtime classes (like java.lang.*, java.util.*)
+Hello is loaded by Application Class Loader - responsible for loading classes found in your application's classpath

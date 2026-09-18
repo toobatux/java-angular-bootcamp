@@ -163,5 +163,5 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 | # | Confirm | Self-check |
 | - | ------- | ---------- |
-| 1 | Sample `3 × 59.99` yields final **161.97** (or equivalent rounding) | Pass / Fail |
-| 2 | You can explain total → discount → final in one sentence | Pass / Fail |
+| 1 | Sample `3 × 59.99` yields final **161.97** (or equivalent rounding) | Pass |
+| 2 | You can explain total → discount → final in one sentence | Pass |

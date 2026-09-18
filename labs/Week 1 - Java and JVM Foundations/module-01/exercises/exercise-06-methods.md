@@ -91,5 +91,5 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 | # | Confirm | Self-check |
 | - | ------- | ---------- |
-| 1 | Output is `30` then `Hello, Aman!` | Pass / Fail |
-| 2 | You can say “each call gets a stack frame” in one sentence | Pass / Fail |
+| 1 | Output is `30` then `Hello, Aman!` | Pass |
+| 2 | You can say “each call gets a stack frame” in one sentence | Pass |

@@ -224,6 +224,6 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 | # | Confirm | Self-check |
 | - | ------- | ---------- |
-| 1 | Java count changes from `3` to `5` | Pass / Fail |
-| 2 | Missing ISBN safely reports `0` | Pass / Fail |
-| 3 | You can explain key uniqueness and unspecified order | Pass / Fail |
+| 1 | Java count changes from `3` to `5` | Pass |
+| 2 | Missing ISBN safely reports `0` | Pass |
+| 3 | You can explain key uniqueness and unspecified order | Pass |

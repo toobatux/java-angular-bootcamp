@@ -208,10 +208,10 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] First checkout is `true`; duplicate member checkout is `false`
-- [ ] Final list and map match verified output
-- [ ] Unavailable-title test leaves state unchanged
-- [ ] You can state the checkout invariant
+- [X] First checkout is `true`; duplicate member checkout is `false`
+- [X] Final list and map match verified output
+- [X] Unavailable-title test leaves state unchanged
+- [X] You can state the checkout invariant
 
 ## Next
 

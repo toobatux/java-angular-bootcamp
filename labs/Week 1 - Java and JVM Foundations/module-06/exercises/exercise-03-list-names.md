@@ -184,8 +184,8 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] All five names print in source order
-- [ ] Lambda and method-reference versions match
-- [ ] Uppercase transformation works
-- [ ] You can explain the `Employee` → `String` type change
+- [X] All five names print in source order
+- [X] Lambda and method-reference versions match
+- [X] Uppercase transformation works
+- [X] You can explain the `Employee` → `String` type change
 

@@ -171,6 +171,6 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 | # | Confirm | Self-check |
 | - | ------- | ---------- |
-| 1 | Output prints `Customer C101: Aman Singh` | Pass / Fail |
-| 2 | The reference type in the demo is `Printable` | Pass / Fail |
-| 3 | You can distinguish `extends` from `implements` | Pass / Fail |
+| 1 | Output prints `Customer C101: Aman Singh` | Pass |
+| 2 | The reference type in the demo is `Printable` | Pass |
+| 3 | You can distinguish `extends` from `implements` | Pass |

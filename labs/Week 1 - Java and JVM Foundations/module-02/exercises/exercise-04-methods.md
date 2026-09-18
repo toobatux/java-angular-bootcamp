@@ -133,5 +133,5 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 | # | Confirm | Self-check |
 | - | ------- | ---------- |
-| 1 | Both `square` calls print the correct result | Pass / Fail |
-| 2 | You can explain how Java chooses which overload to call | Pass / Fail |
+| 1 | Both `square` calls print the correct result | Pass |
+| 2 | You can explain how Java chooses which overload to call | Pass |

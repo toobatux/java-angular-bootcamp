@@ -217,8 +217,8 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] `FrozenAccount` compiles and runs inside the same loop
-- [ ] Frozen withdrawal returns `false` and leaves balance unchanged
-- [ ] You wrote one sentence for each of OCP, LSP, ISP, and DIP
-- [ ] You can name all five SOLID letters from memory
+- [X] `FrozenAccount` compiles and runs inside the same loop
+- [X] Frozen withdrawal returns `false` and leaves balance unchanged
+- [X] You wrote one sentence for each of OCP, LSP, ISP, and DIP
+- [X] You can name all five SOLID letters from memory
 

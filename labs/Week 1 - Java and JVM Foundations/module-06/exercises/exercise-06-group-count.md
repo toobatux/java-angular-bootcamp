@@ -184,8 +184,8 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] Finance, HR, and IT counts are 1, 2, and 2
-- [ ] Output is deterministic and alphabetical
-- [ ] Adding Fatima changes only Finance to 2
-- [ ] You can explain grouping key versus downstream collector
+- [X] Finance, HR, and IT counts are 1, 2, and 2
+- [X] Output is deterministic and alphabetical
+- [X] Adding Fatima changes only Finance to 2
+- [X] You can explain grouping key versus downstream collector
 

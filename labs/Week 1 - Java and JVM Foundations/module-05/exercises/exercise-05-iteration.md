@@ -182,6 +182,6 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 | # | Confirm | Self-check |
 | - | ------- | ---------- |
-| 1 | Remaining list is `[Java 21, Clean Code]` | Pass / Fail |
-| 2 | Failure experiment produces concurrent-modification evidence | Pass / Fail |
-| 3 | You can explain the iterator remove protocol | Pass / Fail |
+| 1 | Remaining list is `[Java 21, Clean Code]` | Pass |
+| 2 | Failure experiment produces concurrent-modification evidence | Pass |
+| 3 | You can explain the iterator remove protocol | Pass |

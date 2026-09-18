@@ -187,10 +187,10 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] Sequential and parallel counts both equal 4
-- [ ] You ran the comparison five times
-- [ ] You did not claim one tiny run proves performance
-- [ ] You can explain why a shared mutable counter is unsafe
+- [X] Sequential and parallel counts both equal 4
+- [X] You ran the comparison five times
+- [X] You did not claim one tiny run proves performance
+- [X] You can explain why a shared mutable counter is unsafe
 
 ## Next
 

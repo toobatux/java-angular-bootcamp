@@ -167,5 +167,5 @@ _Mark each row **Pass** or **Fail** in your lab notes (GitHub markdown files are
 
 | # | Confirm | Self-check |
 | - | ------- | ---------- |
-| 1 | Code compiles and runs; greeting shows name, age, city | Pass / Fail |
-| 2 | You can explain why an extra `nextLine()` is needed after `nextInt()` | Pass / Fail |
+| 1 | Code compiles and runs; greeting shows name, age, city | Pass |
+| 2 | You can explain why an extra `nextLine()` is needed after `nextInt()` | Pass |

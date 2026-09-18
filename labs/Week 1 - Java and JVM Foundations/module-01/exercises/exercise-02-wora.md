@@ -126,6 +126,6 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 | # | Confirm | Self-check |
 | - | ------- | ---------- |
-| 1 | Re-ran `Hello` without recompiling | Pass / Fail |
-| 2 | `WoraProbe` runs with `java WoraProbe`; wrong `.java` launch documented | Pass / Fail |
-| 3 | `notes/wora-notes.md` explains source vs bytecode vs JVM | Pass / Fail |
+| 1 | Re-ran `Hello` without recompiling | Pass |
+| 2 | `WoraProbe` runs with `java WoraProbe`; wrong `.java` launch documented | Pass |
+| 3 | `notes/wora-notes.md` explains source vs bytecode vs JVM | Pass |

@@ -147,5 +147,5 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 | # | Confirm | Self-check |
 | - | ------- | ---------- |
-| 1 | Grade and day name are both correct for your inputs | Pass / Fail |
-| 2 | You can explain why branch order matters in `if`/`else if` | Pass / Fail |
+| 1 | Grade and day name are both correct for your inputs | Pass |
+| 2 | You can explain why branch order matters in `if`/`else if` | Pass |

@@ -119,5 +119,5 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 | # | Confirm | Self-check |
 | - | ------- | ---------- |
-| 1 | `ControlFlow` output matches worked example | Pass / Fail |
-| 2 | `ControlFlowBug` fixed and terminates | Pass / Fail |
+| 1 | `ControlFlow` output matches worked example | Pass |
+| 2 | `ControlFlowBug` fixed and terminates | Pass |

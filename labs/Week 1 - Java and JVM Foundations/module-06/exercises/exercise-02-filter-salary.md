@@ -187,8 +187,8 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] Exactly four employees print at the 60,000 threshold
-- [ ] Evan does not appear in the filtered output
-- [ ] Source size remains 5 and filtered size is 4
-- [ ] You can explain why `filter` is an intermediate operation
+- [X] Exactly four employees print at the 60,000 threshold
+- [X] Evan does not appear in the filtered output
+- [X] Source size remains 5 and filtered size is 4
+- [X] You can explain why `filter` is an intermediate operation
 

@@ -90,5 +90,5 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 | # | Confirm | Self-check |
 | - | ------- | ---------- |
-| 1 | Six values print correctly | Pass / Fail |
-| 2 | You can name one primitive vs `String` | Pass / Fail |
+| 1 | Six values print correctly | Pass |
+| 2 | You can name one primitive vs `String` | Pass |

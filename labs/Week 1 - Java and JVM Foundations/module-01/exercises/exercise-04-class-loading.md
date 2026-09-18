@@ -110,5 +110,5 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 | # | Confirm | Self-check |
 | - | ------- | ---------- |
-| 1 | Identified loaders for `Hello` vs `String` | Pass / Fail |
-| 2 | Reproduced missing-`Helper.class` failure and fixed it | Pass / Fail |
+| 1 | Identified loaders for `Hello` vs `String` | Pass |
+| 2 | Reproduced missing-`Helper.class` failure and fixed it | Pass |

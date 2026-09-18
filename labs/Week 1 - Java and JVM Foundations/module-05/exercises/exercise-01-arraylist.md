@@ -185,6 +185,6 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 | # | Confirm | Self-check |
 | - | ------- | ---------- |
-| 1 | Final size is `3` and order matches verified output | Pass / Fail |
-| 2 | You can explain why one duplicate remains | Pass / Fail |
-| 3 | You can state the valid index range | Pass / Fail |
+| 1 | Final size is `3` and order matches verified output | Pass |
+| 2 | You can explain why one duplicate remains | Pass |
+| 3 | You can state the valid index range | Pass |

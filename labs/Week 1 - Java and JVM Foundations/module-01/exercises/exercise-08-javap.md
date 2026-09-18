@@ -89,8 +89,8 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 | # | Confirm | Self-check |
 | - | ------- | ---------- |
-| 1 | `javap -c Person` ran successfully | Pass / Fail |
-| 2 | Three opcodes explained in notes | Pass / Fail |
+| 1 | `javap -c Person` ran successfully | Pass |
+| 2 | Three opcodes explained in notes | Pass |
 
 ---
 

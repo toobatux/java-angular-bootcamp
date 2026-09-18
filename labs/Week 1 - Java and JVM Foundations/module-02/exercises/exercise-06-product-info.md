@@ -143,5 +143,5 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 | # | Confirm | Self-check |
 | - | ------- | ---------- |
-| 1 | Code compiles and runs; all three fields print | Pass / Fail |
-| 2 | You can explain why `nextLine()` + parse is safer than mixing `nextInt` / `nextDouble` | Pass / Fail |
+| 1 | Code compiles and runs; all three fields print | Pass |
+| 2 | You can explain why `nextLine()` + parse is safer than mixing `nextInt` / `nextDouble` | Pass |

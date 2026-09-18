@@ -210,8 +210,8 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] All four files compile and `LambdaDemo` runs
-- [ ] Both implementations return `true` at 60,000
-- [ ] Both implementations return `false` at 75,000
-- [ ] You can explain what `employee -> ...` means
+- [X] All four files compile and `LambdaDemo` runs
+- [X] Both implementations return `true` at 60,000
+- [X] Both implementations return `false` at 75,000
+- [X] You can explain what `employee -> ...` means
 

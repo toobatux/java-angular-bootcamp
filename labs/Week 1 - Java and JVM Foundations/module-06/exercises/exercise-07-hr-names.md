@@ -176,10 +176,10 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] Output is exactly `[Alice, Charlie]`
-- [ ] The pipeline contains filter, map, sorted, and toList
-- [ ] Case-insensitive test works
-- [ ] You can trace the element type after each operation
+- [X] Output is exactly `[Alice, Charlie]`
+- [X] The pipeline contains filter, map, sorted, and toList
+- [X] Case-insensitive test works
+- [X] You can trace the element type after each operation
 
 ## Next
 
