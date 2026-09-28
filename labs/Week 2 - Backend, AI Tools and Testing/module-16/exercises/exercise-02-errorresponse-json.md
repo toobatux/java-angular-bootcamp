@@ -72,7 +72,6 @@ Forbidden in message: _____
 
 ## Scope
 Pre-lab only.
-```
 
 ### Step 3 — Self-check
 
@@ -106,7 +105,7 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] File exists at `notes/lab16-errorresponse-json.md`
-- [ ] Fields listed
-- [ ] CUS-9999 sample present
-- [ ] Hygiene noted
+- [X] File exists at `notes/lab16-errorresponse-json.md`
+- [X] Fields listed
+- [X] CUS-9999 sample present
+- [X] Hygiene noted

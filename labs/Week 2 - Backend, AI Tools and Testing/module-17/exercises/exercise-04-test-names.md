@@ -109,7 +109,7 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] File exists at `notes/lab17-test-names.md`
-- [ ] Pattern stated
-- [ ] Three names
-- [ ] Anti-names listed
+- [X] File exists at `notes/lab17-test-names.md`
+- [X] Pattern stated
+- [X] Three names
+- [X] Anti-names listed

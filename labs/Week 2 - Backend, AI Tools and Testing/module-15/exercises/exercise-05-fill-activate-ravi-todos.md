@@ -108,7 +108,7 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] File exists at `notes/lab15-activate-ravi-todos.md`
-- [ ] All _____ replaced
-- [ ] PROSPECT→ACTIVE correct
-- [ ] Repo boundary sentence present
+- [X] File exists at `notes/lab15-activate-ravi-todos.md`
+- [X] All _____ replaced
+- [X] PROSPECT→ACTIVE correct
+- [X] Repo boundary sentence present

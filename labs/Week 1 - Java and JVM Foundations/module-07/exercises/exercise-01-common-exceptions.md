@@ -168,6 +168,6 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 | # | Confirm | Self-check |
 | - | ------- | ---------- |
-| 1 | All three specific exception names print | Pass / Fail |
-| 2 | Final continuation line prints | Pass / Fail |
-| 3 | You can name the prevention for each failure | Pass / Fail |
+| 1 | All three specific exception names print | Pass |
+| 2 | Final continuation line prints | Pass |
+| 3 | You can name the prevention for each failure | Pass |

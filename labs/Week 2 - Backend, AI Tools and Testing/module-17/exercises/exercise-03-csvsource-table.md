@@ -111,7 +111,7 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] File exists at `notes/lab17-csvsource-table.md`
-- [ ] Valid rows present
-- [ ] Invalid rows present
-- [ ] Runtime note present
+- [X] File exists at `notes/lab17-csvsource-table.md`
+- [X] Valid rows present
+- [X] Invalid rows present
+- [X] Runtime note present

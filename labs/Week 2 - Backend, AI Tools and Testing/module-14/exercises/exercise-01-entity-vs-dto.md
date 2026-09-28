@@ -108,7 +108,7 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] File exists at `notes/lab14-entity-vs-dto.md`
-- [ ] Definitions written
-- [ ] Two leak risks
-- [ ] Amina DTO fields listed
+- [X] File exists at `notes/lab14-entity-vs-dto.md`
+- [X] Definitions written
+- [X] Two leak risks
+- [X] Amina DTO fields listed

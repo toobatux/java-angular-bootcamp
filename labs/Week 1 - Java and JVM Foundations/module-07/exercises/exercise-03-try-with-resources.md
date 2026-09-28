@@ -164,6 +164,6 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 | # | Confirm | Self-check |
 | - | ------- | ---------- |
-| 1 | Both file lines print | Pass / Fail |
-| 2 | No explicit `close()` appears | Pass / Fail |
-| 3 | Missing-file path is handled | Pass / Fail |
+| 1 | Both file lines print | Pass |
+| 2 | No explicit `close()` appears | Pass |
+| 3 | Missing-file path is handled | Pass |

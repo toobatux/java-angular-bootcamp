@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="KubernetesApiProvider"><![CDATA[{}]]></component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/labs/Week 2 - Backend, AI Tools and Testing/module-14/lab14/completed/pom.xml" />
+        <option value="$PROJECT_DIR$/labs/Week 2 - Backend, AI Tools and Testing/module-15/lab15/completed/pom.xml" />
+        <option value="$PROJECT_DIR$/labs/Week 2 - Backend, AI Tools and Testing/module-17/lab17/completed/pom.xml" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="26" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>

@@ -180,6 +180,6 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 | # | Confirm | Self-check |
 | - | ------- | ---------- |
-| 1 | Success and failure paths both execute | Pass / Fail |
-| 2 | Cleanup prints twice | Pass / Fail |
-| 3 | You can explain the normal finally guarantee and limitation | Pass / Fail |
+| 1 | Success and failure paths both execute | Pass |
+| 2 | Cleanup prints twice | Pass |
+| 3 | You can explain the normal finally guarantee and limitation | Pass |

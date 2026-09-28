@@ -103,7 +103,7 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] File exists at `notes/lab17-meaningful-asserts.md`
-- [ ] Weak labeled
-- [ ] Strong asserts listed
-- [ ] assertThrows planned
+- [X] File exists at `notes/lab17-meaningful-asserts.md`
+- [X] Weak labeled
+- [X] Strong asserts listed
+- [X] assertThrows planned

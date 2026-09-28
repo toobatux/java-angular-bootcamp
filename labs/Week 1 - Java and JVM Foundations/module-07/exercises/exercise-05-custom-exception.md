@@ -199,6 +199,6 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 | # | Confirm | Self-check |
 | - | ------- | ---------- |
-| 1 | Output reports shortfall `50.00` | Pass / Fail |
-| 2 | Balance remains `100.00` | Pass / Fail |
-| 3 | Caller enforces catch-or-declare | Pass / Fail |
+| 1 | Output reports shortfall `50.00` | Pass |
+| 2 | Balance remains `100.00` | Pass |
+| 3 | Caller enforces catch-or-declare | Pass |

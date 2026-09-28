@@ -111,7 +111,7 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] File exists at `notes/lab14-invalid-cases.md`
-- [ ] At least three invalids
-- [ ] One valid control
-- [ ] Notes saved
+- [X] File exists at `notes/lab14-invalid-cases.md`
+- [X] At least three invalids
+- [X] One valid control
+- [X] Notes saved

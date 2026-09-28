@@ -114,8 +114,8 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] File exists at `notes/lab12-smell-bingo.md`
-- [ ] Five smells listed
-- [ ] Fixture impact noted
-- [ ] Two priorities starred
+- [X] File exists at `notes/lab12-smell-bingo.md`
+- [X] Five smells listed
+- [X] Fixture impact noted
+- [X] Two priorities starred
 

@@ -267,6 +267,6 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 | # | Confirm | Notes |
 | - | ------- | ----- |
-| 1 | Package tree matches declarations | Pass / Fail |
-| 2 | Compile and run output matches expected | Pass / Fail |
-| 3 | You explain entity vs request/response DTO | Pass / Fail |
+| 1 | Package tree matches declarations | Pass |
+| 2 | Compile and run output matches expected | Pass |
+| 3 | You explain entity vs request/response DTO | Pass |

@@ -122,8 +122,8 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] File exists at `notes/lab12-target-api-sketch.md`
-- [ ] Methods listed
-- [ ] Ravi transition noted
-- [ ] REST hosting / Spring excluded
+- [X] File exists at `notes/lab12-target-api-sketch.md`
+- [X] Methods listed
+- [X] Ravi transition noted
+- [X] REST hosting / Spring excluded
 

@@ -119,11 +119,11 @@ Record **Pass** or **Fail** in your notes:
 
 | Readiness check | Result |
 | --------------- | ------ |
-| I can locate each class package | Pass / Fail |
-| I can explain controller → service → repository | Pass / Fail |
-| I distinguish DTO from entity | Pass / Fail |
-| I have not added Spring/JPA/database code | Pass / Fail |
-| I am ready to build the full Maven skeleton in Lab 8 | Pass / Fail |
+| I can locate each class package | Pass |
+| I can explain controller → service → repository | Pass |
+| I distinguish DTO from entity | Pass |
+| I have not added Spring/JPA/database code | Pass |
+| I am ready to build the full Maven skeleton in Lab 8 | Pass |
 
 ## Expected result
 
@@ -148,8 +148,8 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] Success flow includes all three layers
-- [ ] Failure stops before repository
-- [ ] Request/entity/response transformations are identified
-- [ ] No premature Spring/JPA implementation appears
+- [X] Success flow includes all three layers
+- [X] Failure stops before repository
+- [X] Request/entity/response transformations are identified
+- [X] No premature Spring/JPA implementation appears
 

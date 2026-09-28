@@ -107,7 +107,7 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] File exists at `notes/lab17-aaa-plan.md`
-- [ ] Happy path AAA
-- [ ] Not-found AAA
-- [ ] Illegal AAA
+- [X] File exists at `notes/lab17-aaa-plan.md`
+- [X] Happy path AAA
+- [X] Not-found AAA
+- [X] Illegal AAA

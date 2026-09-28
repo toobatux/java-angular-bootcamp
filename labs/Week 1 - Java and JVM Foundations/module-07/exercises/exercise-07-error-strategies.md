@@ -186,6 +186,6 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 | # | Confirm | Self-check |
 | - | ------- | ---------- |
-| 1 | `fetchWithRetry` shows retry attempts and eventually a result | Pass / Fail |
-| 2 | You forced and observed the fallback path | Pass / Fail |
-| 3 | You wrote one real scenario each for Skip & Continue, Fail Fast, Graceful Degradation, and Circuit Breaker | Pass / Fail |
+| 1 | `fetchWithRetry` shows retry attempts and eventually a result | Pass |
+| 2 | You forced and observed the fallback path | Pass |
+| 3 | You wrote one real scenario each for Skip & Continue, Fail Fast, Graceful Degradation, and Circuit Breaker | Pass |

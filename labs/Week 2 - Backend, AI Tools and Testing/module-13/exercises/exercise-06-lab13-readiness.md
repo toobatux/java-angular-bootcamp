@@ -123,8 +123,8 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] File exists at `notes/lab13-readiness.md`
-- [ ] Mistake sweep done with any fixes noted
-- [ ] Lab 13 deliverables listed
-- [ ] Fixtures confirmed synthetic
-- [ ] All five earlier notes files confirmed complete
+- [X] File exists at `notes/lab13-readiness.md`
+- [X] Mistake sweep done with any fixes noted
+- [X] Lab 13 deliverables listed
+- [X] Fixtures confirmed synthetic
+- [X] All five earlier notes files confirmed complete

@@ -123,7 +123,7 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] File exists at `notes/lab13-uri-table.md`
-- [ ] Resources named as plural nouns
-- [ ] Collection, item, and sub-resource URIs written
-- [ ] One bad URI rewritten with the reason
+- [X] File exists at `notes/lab13-uri-table.md`
+- [X] Resources named as plural nouns
+- [X] Collection, item, and sub-resource URIs written
+- [X] One bad URI rewritten with the reason

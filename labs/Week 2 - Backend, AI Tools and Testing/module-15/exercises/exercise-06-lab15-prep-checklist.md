@@ -113,7 +113,7 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] File exists at `notes/lab15-prep-checklist.md`
-- [ ] Artifacts confirmed
-- [ ] Fixtures correct
-- [ ] Pre-lab-only statement present
+- [X] File exists at `notes/lab15-prep-checklist.md`
+- [X] Artifacts confirmed
+- [X] Fixtures correct
+- [X] Pre-lab-only statement present

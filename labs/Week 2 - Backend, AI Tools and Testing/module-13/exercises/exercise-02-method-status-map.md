@@ -123,8 +123,8 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] File exists at `notes/lab13-method-status-map.md`
-- [ ] Methods listed per URI
-- [ ] Exact success codes including 201 + Location
-- [ ] 404 and 400 cases mapped
-- [ ] Safe/idempotent marked per method
+- [X] File exists at `notes/lab13-method-status-map.md`
+- [X] Methods listed per URI
+- [X] Exact success codes including 201 + Location
+- [X] 404 and 400 cases mapped
+- [X] Safe/idempotent marked per method

@@ -130,8 +130,8 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] File exists at `notes/lab12-equals-vs-eqeq.md`
-- [ ] Table plus null-safe row
-- [ ] Bad and good snippets present
-- [ ] Enum preference noted
+- [X] File exists at `notes/lab12-equals-vs-eqeq.md`
+- [X] Table plus null-safe row
+- [X] Bad and good snippets present
+- [X] Enum preference noted
 

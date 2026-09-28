@@ -108,7 +108,7 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] File exists at `notes/lab17-jacoco-gate-todos.md`
-- [ ] All _____ replaced
-- [ ] Package named
-- [ ] Mockito = no
+- [X] File exists at `notes/lab17-jacoco-gate-todos.md`
+- [X] All _____ replaced
+- [X] Package named
+- [X] Mockito = no

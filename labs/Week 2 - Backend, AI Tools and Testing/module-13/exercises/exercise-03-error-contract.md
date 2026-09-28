@@ -123,8 +123,8 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] File exists at `notes/lab13-error-contract.md`
-- [ ] Error fields defined once
-- [ ] Correlation id and its header named
-- [ ] 404 and 400 examples written
-- [ ] Leak rule stated
+- [X] File exists at `notes/lab13-error-contract.md`
+- [X] Error fields defined once
+- [X] Correlation id and its header named
+- [X] 404 and 400 examples written
+- [X] Leak rule stated

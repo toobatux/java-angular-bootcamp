@@ -123,6 +123,6 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 | # | Confirm | Notes |
 | - | ------- | ----- |
-| 1 | Seven FQCNs are correct | Pass / Fail |
-| 2 | DTO path matches its declaration | Pass / Fail |
-| 3 | Package segments are lowercase and meaningful | Pass / Fail |
+| 1 | Seven FQCNs are correct | Pass |
+| 2 | DTO path matches its declaration | Pass |
+| 3 | Package segments are lowercase and meaningful | Pass |

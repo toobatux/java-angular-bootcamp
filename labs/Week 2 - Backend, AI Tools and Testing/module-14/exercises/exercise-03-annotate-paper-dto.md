@@ -123,7 +123,7 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] File exists at `notes/lab14-annotate-dto.md`
-- [ ] Constraint table filled
-- [ ] No `@Valid` wiring claimed
-- [ ] Correlation placement noted
+- [X] File exists at `notes/lab14-annotate-dto.md`
+- [X] Constraint table filled
+- [X] No `@Valid` wiring claimed
+- [X] Correlation placement noted

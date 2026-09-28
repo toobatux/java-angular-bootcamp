@@ -110,7 +110,7 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] File exists at `notes/lab15-layers.md`
-- [ ] Three layers named
-- [ ] Activate flow labeled
-- [ ] Correlation edge noted
+- [X] File exists at `notes/lab15-layers.md`
+- [X] Three layers named
+- [X] Activate flow labeled
+- [X] Correlation edge noted

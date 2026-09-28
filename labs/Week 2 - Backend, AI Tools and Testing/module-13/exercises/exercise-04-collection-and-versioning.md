@@ -123,8 +123,8 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] File exists at `notes/lab13-collection-versioning.md`
-- [ ] Page, size, sort, filter named with defaults
-- [ ] List envelope includes paging metadata
-- [ ] Versioning choice justified
-- [ ] Breaking vs non-breaking examples given
+- [X] File exists at `notes/lab13-collection-versioning.md`
+- [X] Page, size, sort, filter named with defaults
+- [X] List envelope includes paging metadata
+- [X] Versioning choice justified
+- [X] Breaking vs non-breaking examples given

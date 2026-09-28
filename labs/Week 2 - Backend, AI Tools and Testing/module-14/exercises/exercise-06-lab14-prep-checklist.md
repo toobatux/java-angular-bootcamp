@@ -125,7 +125,7 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] File exists at `notes/lab14-prep-checklist.md`
-- [ ] Artifacts confirmed
-- [ ] Boundary statement present
-- [ ] Pass/Fail marked
+- [X] File exists at `notes/lab14-prep-checklist.md`
+- [X] Artifacts confirmed
+- [X] Boundary statement present
+- [X] Pass/Fail marked

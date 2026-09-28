@@ -187,10 +187,10 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] Log includes severity, operation, demo account ID, and exception
-- [ ] User message contains no stack trace
-- [ ] Catch block is not empty
-- [ ] You can name data that must never be logged
+- [X] Log includes severity, operation, demo account ID, and exception
+- [X] User message contains no stack trace
+- [X] Catch block is not empty
+- [X] You can name data that must never be logged
 
 ## Next
 

@@ -121,7 +121,7 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] File exists at `notes/lab15-transition-matrix.md`
-- [ ] Matrix filled
-- [ ] Amina case noted
-- [ ] Lab 16 mapping deferred
+- [X] File exists at `notes/lab15-transition-matrix.md`
+- [X] Matrix filled
+- [X] Amina case noted
+- [X] Lab 16 mapping deferred

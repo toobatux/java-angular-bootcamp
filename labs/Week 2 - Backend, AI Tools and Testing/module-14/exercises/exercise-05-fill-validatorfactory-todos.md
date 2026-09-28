@@ -115,7 +115,7 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] File exists at `notes/lab14-validatorfactory-todos.md`
-- [ ] All _____ replaced
-- [ ] Three invalid cases listed
-- [ ] No Spring @Valid claimed
+- [X] File exists at `notes/lab14-validatorfactory-todos.md`
+- [X] All _____ replaced
+- [X] Three invalid cases listed
+- [X] No Spring @Valid claimed

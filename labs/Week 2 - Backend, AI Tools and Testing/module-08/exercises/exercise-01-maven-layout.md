@@ -127,6 +127,6 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 | # | Confirm | Notes |
 | - | ------- | ----- |
-| 1 | Six files classified correctly | Pass / Fail |
-| 2 | You explain why `target/` is ignored | Pass / Fail |
-| 3 | You state that resources must not contain committed secrets | Pass / Fail |
+| 1 | Six files classified correctly | Pass |
+| 2 | You explain why `target/` is ignored | Pass |
+| 3 | You state that resources must not contain committed secrets | Pass |

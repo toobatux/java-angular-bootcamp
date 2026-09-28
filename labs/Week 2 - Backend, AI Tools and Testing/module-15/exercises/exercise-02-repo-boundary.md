@@ -107,7 +107,7 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] File exists at `notes/lab15-repo-boundary.md`
-- [ ] Repo responsibilities listed
-- [ ] Service responsibilities listed
-- [ ] Anti-pattern named
+- [X] File exists at `notes/lab15-repo-boundary.md`
+- [X] Repo responsibilities listed
+- [X] Service responsibilities listed
+- [X] Anti-pattern named

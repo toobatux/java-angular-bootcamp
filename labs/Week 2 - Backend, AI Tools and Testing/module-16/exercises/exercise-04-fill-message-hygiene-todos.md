@@ -102,7 +102,7 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] File exists at `notes/lab16-message-hygiene-todos.md`
-- [ ] All _____ replaced
-- [ ] Client stack = no
-- [ ] Correlation named
+- [X] File exists at `notes/lab16-message-hygiene-todos.md`
+- [X] All _____ replaced
+- [X] Client stack = no
+- [X] Correlation named

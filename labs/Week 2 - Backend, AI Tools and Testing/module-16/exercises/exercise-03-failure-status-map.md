@@ -112,7 +112,7 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] File exists at `notes/lab16-status-map.md`
-- [ ] Four rows filled
-- [ ] Conflict choice noted
-- [ ] Never-200 rule present
+- [X] File exists at `notes/lab16-status-map.md`
+- [X] Four rows filled
+- [X] Conflict choice noted
+- [X] Never-200 rule present

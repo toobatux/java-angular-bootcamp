@@ -109,7 +109,7 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] File exists at `notes/lab16-catch-order.md`
-- [ ] Types listed
-- [ ] Specific→general order
-- [ ] Why sentence present
+- [X] File exists at `notes/lab16-catch-order.md`
+- [X] Types listed
+- [X] Specific→general order
+- [X] Why sentence present

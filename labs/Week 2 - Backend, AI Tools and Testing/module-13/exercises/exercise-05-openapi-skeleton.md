@@ -123,8 +123,8 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] File exists at `notes/lab13-openapi-skeleton.md`
-- [ ] Top-level sections listed
-- [ ] Both paths with their operations
-- [ ] Customer schema matches the fixtures
-- [ ] API-first rationale written
+- [X] File exists at `notes/lab13-openapi-skeleton.md`
+- [X] Top-level sections listed
+- [X] Both paths with their operations
+- [X] Customer schema matches the fixtures
+- [X] API-first rationale written

@@ -114,7 +114,7 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] File exists at `notes/lab14-mapper-no-leak.md`
-- [ ] toDto fields listed
-- [ ] Forbidden fields listed
-- [ ] Lab 15 deferral noted
+- [X] File exists at `notes/lab14-mapper-no-leak.md`
+- [X] toDto fields listed
+- [X] Forbidden fields listed
+- [X] Lab 15 deferral noted

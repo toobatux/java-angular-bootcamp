@@ -114,8 +114,8 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] File exists at `notes/lab12-solid-scope.md`
-- [ ] One apply-now item
-- [ ] Two defer items
-- [ ] Before-REST hosting rationale written
+- [X] File exists at `notes/lab12-solid-scope.md`
+- [X] One apply-now item
+- [X] Two defer items
+- [X] Before-REST hosting rationale written
 

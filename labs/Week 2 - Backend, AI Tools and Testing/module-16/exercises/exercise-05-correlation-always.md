@@ -102,7 +102,7 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 Self-check before marking Pass:
 
-- [ ] File exists at `notes/lab16-correlation-always.md`
-- [ ] Success path noted
-- [ ] Failure path noted
-- [ ] Missing-header note present
+- [X] File exists at `notes/lab16-correlation-always.md`
+- [X] Success path noted
+- [X] Failure path noted
+- [X] Missing-header note present

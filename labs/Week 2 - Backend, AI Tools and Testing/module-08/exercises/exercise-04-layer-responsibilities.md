@@ -122,6 +122,6 @@ _Check **Pass** or **Fail** yourself. Do not write these marks anywhere — noth
 
 | # | Confirm | Notes |
 | - | ------- | ----- |
-| 1 | Seven tasks assigned correctly | Pass / Fail |
-| 2 | God-controller flow repaired | Pass / Fail |
-| 3 | You explain at least two benefits of boundaries | Pass / Fail |
+| 1 | Seven tasks assigned correctly | Pass |
+| 2 | God-controller flow repaired | Pass |
+| 3 | You explain at least two benefits of boundaries | Pass |
